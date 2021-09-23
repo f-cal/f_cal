@@ -1,2 +1,2 @@
 # f_cal
-f-Cal: Variational calibration of aleatoric uncertainty in neural regression
+f-Cal: Calibrated aleatoric uncertainty estimation from neural networks for robot perception
